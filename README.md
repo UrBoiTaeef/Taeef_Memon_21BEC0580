@@ -1,7 +1,7 @@
 Getting Started:
 
-Clone the repository: git clone https://github.com/your-username/hitwicket-game.git
-Navigate to the project directory: cd hitwicket-game
+Clone this repository
+Navigate to the project directory
 Install dependencies: npm install
 Start the server: node server/server.js
 Open a web browser and navigate to http://localhost:8080
